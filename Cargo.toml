@@ -2,3 +2,5 @@
 members = ["exercises/*/*"]
 resolver = "2"
 
+[profile.dev]
+overflow-checks = false
